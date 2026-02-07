@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gestion on Stev de DEV</title>
+    <link>https://le-esp.ovh/TheApp/fr/categories/gestion/</link>
+    <description>Recent content in Gestion on Stev de DEV</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://le-esp.ovh/TheApp/fr/categories/gestion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gestion Comptage Horaire</title>
+      <link>https://le-esp.ovh/TheApp/fr/posts/hour-count/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://le-esp.ovh/TheApp/fr/posts/hour-count/</guid>
+      <description>&lt;h3 id=&#34;the-project&#34;&gt;&#xD;&#xA;  The Project&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-project&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;J&amp;rsquo;ai conçu et développé un système de Gestion des Temps et des Présences utilisé par plus de 500 employés.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;&#xD;&#xA;  Key Features:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-features&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pointage Automatisé:&lt;/strong&gt; Les employés enregistrent leurs heures via une interface web ou une application mobile.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend Complexe:&lt;/strong&gt; Un moteur sous Node.js qui calcule les heures supplémentaires en fonction des législations du travail régionales.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intégration DevOps:&lt;/strong&gt; Déploiement via des conteneurs Docker avec un suivi Sonar garantissant une couverture de code de 90 %.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

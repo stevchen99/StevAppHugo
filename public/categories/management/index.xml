@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management on Stev de DEV</title>
+    <link>https://le-esp.ovh/TheApp/categories/management/</link>
+    <description>Recent content in Management on Stev de DEV</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://le-esp.ovh/TheApp/categories/management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time Tracking Management</title>
+      <link>https://le-esp.ovh/TheApp/posts/hour-count/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://le-esp.ovh/TheApp/posts/hour-count/</guid>
+      <description>&lt;h3 id=&#34;the-project&#34;&gt;&#xD;&#xA;  The Project&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-project&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;I designed and developed a &lt;strong&gt;Time and Attendance&lt;/strong&gt; system used by 500+ employees.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;&#xD;&#xA;  Key Features:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-features&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated Clocking:&lt;/strong&gt; Employees log hours via a web interface or mobile app.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Complex Backend:&lt;/strong&gt; A Node JS that calculates overtime based on regional labor laws.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;DevOps Integration:&lt;/strong&gt; Deployed via &lt;strong&gt;Docker&lt;/strong&gt; containers with &lt;strong&gt;Sonar&lt;/strong&gt; ensuring 90% code coverage.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
