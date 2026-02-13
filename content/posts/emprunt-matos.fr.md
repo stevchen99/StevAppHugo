@@ -2,7 +2,7 @@
 authors = ["Stev de DEV"]
 title = "Emprunt Matos"
 date = "2026-01-05"
-description = "gestion des emprunts"
+description = "gestion des emprunts matos"
 tags = [
     "Node JS",
     "React",

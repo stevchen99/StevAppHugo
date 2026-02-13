@@ -1,23 +1,43 @@
 name: Deploy Website
+
 on:
   push:
     branches:
       - main
+
 jobs:
   web-deploy:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v4
+      with:
+        # This pulls your theme if it's a submodule
+        submodules: recursive
+        # This ensures Hugo can read git dates for "Last Modified"
+        fetch-depth: 0
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
+      with:
+        # Optional: Specify a version to match your local one
+        hugo-version: 'latest'
+        # Set to true if you use Hugo Extended (SASS/SCSS)
+        extended: true
+
     - name: Build
-      run: hugo --minify
+      # --minify cleans up the code; --gc removes unused cache files
+      run: hugo --gc --minify
+
     - name: FTP Deploy
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: ftp.cluster121.hosting.ovh.net
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
+        # Hugo builds into 'public', so we upload that content
         local-dir: ./public/
+        # Make sure this path exists on your OVH FTP
         server-dir: ./www/TheApp/
+        # This prevents the action from deleting the sync-state file
+        state-name: .ftp-deploy-sync-state.json
