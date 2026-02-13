@@ -2,267 +2,299 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://le-esp.ovh/TheApp/fr/categories/aikido/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/authors/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/categories/aikido/"
+                href="http://localhost:1313/TheApp/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/categories/aikido/"
+                href="http://localhost:1313/TheApp/fr/authors/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/posts/aikido-stage/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/categories/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/posts/aikido-stage/"
+                href="http://localhost:1313/TheApp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/posts/aikido-stage/"
+                href="http://localhost:1313/TheApp/fr/categories/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/authors/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/categories/emprunt/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/TheApp/fr/posts/emprunt-matos/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/authors/"
+                href="http://localhost:1313/TheApp/posts/emprunt-matos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/authors/"
+                href="http://localhost:1313/TheApp/fr/posts/emprunt-matos/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/categories/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/tags/flutter/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/categories/"
+                href="http://localhost:1313/TheApp/tags/flutter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/categories/"
+                href="http://localhost:1313/TheApp/fr/tags/flutter/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/categories/matos/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/tags/flutter/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/tags/mongo-db/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/tags/flutter/"
+                href="http://localhost:1313/TheApp/tags/mongo-db/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/tags/flutter/"
+                href="http://localhost:1313/TheApp/fr/tags/mongo-db/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/tags/mongo-db/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/tags/node-js/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/tags/mongo-db/"
+                href="http://localhost:1313/TheApp/tags/node-js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/tags/mongo-db/"
+                href="http://localhost:1313/TheApp/fr/tags/node-js/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/tags/node-js/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/posts/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/tags/node-js/"
+                href="http://localhost:1313/TheApp/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/tags/node-js/"
+                href="http://localhost:1313/TheApp/fr/posts/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/posts/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/tags/react/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/posts/"
+                href="http://localhost:1313/TheApp/tags/react/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/posts/"
+                href="http://localhost:1313/TheApp/fr/tags/react/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/tags/react/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/series/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/tags/react/"
+                href="http://localhost:1313/TheApp/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/tags/react/"
+                href="http://localhost:1313/TheApp/fr/series/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/series/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/series/"
+                href="http://localhost:1313/TheApp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/series/"
+                href="http://localhost:1313/TheApp/fr/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/categories/sport/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/authors/stev-de-dev/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/categories/sport/"
+                href="http://localhost:1313/TheApp/authors/stev-de-dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/categories/sport/"
+                href="http://localhost:1313/TheApp/fr/authors/stev-de-dev/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/tags/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/"
+                href="http://localhost:1313/TheApp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/"
+                href="http://localhost:1313/TheApp/fr/tags/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/authors/stev-de-dev/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/TheApp/fr/series/theme-demo/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/authors/stev-de-dev/"
+                href="http://localhost:1313/TheApp/series/theme-demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/authors/stev-de-dev/"
+                href="http://localhost:1313/TheApp/fr/series/theme-demo/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/tags/</loc>
+    <loc>http://localhost:1313/TheApp/fr/categories/aikido/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/tags/"
+                href="http://localhost:1313/TheApp/categories/aikido/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/tags/"
+                href="http://localhost:1313/TheApp/fr/categories/aikido/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/categories/gestion/</loc>
+    <loc>http://localhost:1313/TheApp/fr/posts/aikido-stage/</loc>
+    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/TheApp/posts/aikido-stage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/TheApp/fr/posts/aikido-stage/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/TheApp/fr/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/TheApp/fr/categories/sport/</loc>
+    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/TheApp/categories/sport/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/TheApp/fr/categories/sport/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/TheApp/fr/categories/gestion/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/posts/hour-count/</loc>
+    <loc>http://localhost:1313/TheApp/fr/posts/hour-count/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/posts/hour-count/"
+                href="http://localhost:1313/TheApp/posts/hour-count/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/posts/hour-count/"
+                href="http://localhost:1313/TheApp/fr/posts/hour-count/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/categories/rh/</loc>
+    <loc>http://localhost:1313/TheApp/fr/categories/rh/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/authors/hugo-authors/</loc>
+    <loc>http://localhost:1313/TheApp/fr/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/authors/hugo-authors/"
+                href="http://localhost:1313/TheApp/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/authors/hugo-authors/"
+                href="http://localhost:1313/TheApp/fr/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/categoria/temas/</loc>
+    <loc>http://localhost:1313/TheApp/fr/categoria/temas/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/categoria/sintaxe/</loc>
+    <loc>http://localhost:1313/TheApp/fr/categoria/sintaxe/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/TheApp/fr/tags/shortcodes/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/about/</loc>
+    <loc>http://localhost:1313/TheApp/fr/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/about/"
+                href="http://localhost:1313/TheApp/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/about/"
+                href="http://localhost:1313/TheApp/fr/about/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/contact/</loc>
+    <loc>http://localhost:1313/TheApp/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/contact/"
+                href="http://localhost:1313/TheApp/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/contact/"
+                href="http://localhost:1313/TheApp/fr/contact/"
                 />
   </url><url>
-    <loc>https://le-esp.ovh/TheApp/fr/projects/</loc>
+    <loc>http://localhost:1313/TheApp/fr/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://le-esp.ovh/TheApp/projects/"
+                href="http://localhost:1313/TheApp/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://le-esp.ovh/TheApp/fr/projects/"
+                href="http://localhost:1313/TheApp/fr/projects/"
                 />
   </url>
 </urlset>

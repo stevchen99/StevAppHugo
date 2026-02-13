@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emprunt on Stev de DEV</title>
+    <link>http://localhost:1313/TheApp/fr/categories/emprunt/</link>
+    <description>Recent content in Emprunt on Stev de DEV</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/TheApp/fr/categories/emprunt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emprunt Matos</title>
+      <link>http://localhost:1313/TheApp/fr/posts/emprunt-matos/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/fr/posts/emprunt-matos/</guid>
+      <description>&lt;h3 id=&#34;the-project&#34;&gt;&#xD;&#xA;  The Project&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-project&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&amp;ldquo;Un CRM spécialisé pour la gestion des emprunts.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h3 id=&#34;fonctionnalités-clés&#34;&gt;&#xD;&#xA;  Fonctionnalités clés:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#fonctionnalit%c3%a9s-cl%c3%a9s&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;**Ergonomic UI:**Elle utilise une interface de type « réseau social » que les utilisateurs connaissent déjà.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mutual Connections:&lt;/strong&gt; Indique si vous avez des amis ou des cercles sociaux en commun afin de réduire la méfiance envers les inconnus.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Live Scheduling:&lt;/strong&gt; Un calendrier visuel permet aux prêteurs d’indiquer leurs disponibilités (« occupé » ou « disponible »).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

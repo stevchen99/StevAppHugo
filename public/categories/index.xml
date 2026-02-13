@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Stev de DEV</title>
-    <link>https://le-esp.ovh/TheApp/categories/</link>
+    <link>http://localhost:1313/TheApp/categories/</link>
     <description>Recent content in Categories on Stev de DEV</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://le-esp.ovh/TheApp/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/TheApp/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Material</title>
+      <link>http://localhost:1313/TheApp/categories/material/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/categories/material/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rent</title>
+      <link>http://localhost:1313/TheApp/categories/rent/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/categories/rent/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Aikido</title>
-      <link>https://le-esp.ovh/TheApp/categories/aikido/</link>
+      <link>http://localhost:1313/TheApp/categories/aikido/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/categories/aikido/</guid>
+      <guid>http://localhost:1313/TheApp/categories/aikido/</guid>
       <description></description>
     </item>
     <item>
       <title>Sport</title>
-      <link>https://le-esp.ovh/TheApp/categories/sport/</link>
+      <link>http://localhost:1313/TheApp/categories/sport/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/categories/sport/</guid>
+      <guid>http://localhost:1313/TheApp/categories/sport/</guid>
       <description></description>
     </item>
     <item>
       <title>HR</title>
-      <link>https://le-esp.ovh/TheApp/categories/hr/</link>
+      <link>http://localhost:1313/TheApp/categories/hr/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/categories/hr/</guid>
+      <guid>http://localhost:1313/TheApp/categories/hr/</guid>
       <description></description>
     </item>
     <item>
       <title>Management</title>
-      <link>https://le-esp.ovh/TheApp/categories/management/</link>
+      <link>http://localhost:1313/TheApp/categories/management/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/categories/management/</guid>
+      <guid>http://localhost:1313/TheApp/categories/management/</guid>
       <description></description>
     </item>
   </channel>

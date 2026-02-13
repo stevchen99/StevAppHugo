@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flutter on Stev de DEV</title>
-    <link>https://le-esp.ovh/TheApp/fr/tags/flutter/</link>
+    <link>http://localhost:1313/TheApp/fr/tags/flutter/</link>
     <description>Recent content in Flutter on Stev de DEV</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://le-esp.ovh/TheApp/fr/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/TheApp/fr/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emprunt Matos</title>
+      <link>http://localhost:1313/TheApp/fr/posts/emprunt-matos/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/fr/posts/emprunt-matos/</guid>
+      <description>&lt;h3 id=&#34;the-project&#34;&gt;&#xD;&#xA;  The Project&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-project&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&amp;ldquo;Un CRM spécialisé pour la gestion des emprunts.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h3 id=&#34;fonctionnalités-clés&#34;&gt;&#xD;&#xA;  Fonctionnalités clés:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#fonctionnalit%c3%a9s-cl%c3%a9s&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;**Ergonomic UI:**Elle utilise une interface de type « réseau social » que les utilisateurs connaissent déjà.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mutual Connections:&lt;/strong&gt; Indique si vous avez des amis ou des cercles sociaux en commun afin de réduire la méfiance envers les inconnus.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Live Scheduling:&lt;/strong&gt; Un calendrier visuel permet aux prêteurs d’indiquer leurs disponibilités (« occupé » ou « disponible »).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Aikido Stage</title>
-      <link>https://le-esp.ovh/TheApp/fr/posts/aikido-stage/</link>
+      <link>http://localhost:1313/TheApp/fr/posts/aikido-stage/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/fr/posts/aikido-stage/</guid>
+      <guid>http://localhost:1313/TheApp/fr/posts/aikido-stage/</guid>
       <description>&lt;h3 id=&#34;the-project&#34;&gt;&#xD;&#xA;  The Project&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-project&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Un CRM spécialisé pour la gestion de stages d&amp;rsquo;arts martiaux.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;&#xD;&#xA;  Key Features:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-features&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;UI Ergonomique&lt;/strong&gt; : Design minimaliste sous &lt;strong&gt;React&lt;/strong&gt; pour une concentration maximale sur l&amp;rsquo;essentiel.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mobile-First&lt;/strong&gt; : Pensé pour l&amp;rsquo;usage nomade (check-in des pratiquants au bord du tapis).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flux sans couture&lt;/strong&gt; : Automatisation complète pour éliminer la lourdeur administrative.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Gestion Comptage Horaire</title>
-      <link>https://le-esp.ovh/TheApp/fr/posts/hour-count/</link>
+      <link>http://localhost:1313/TheApp/fr/posts/hour-count/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/fr/posts/hour-count/</guid>
+      <guid>http://localhost:1313/TheApp/fr/posts/hour-count/</guid>
       <description>&lt;h3 id=&#34;the-project&#34;&gt;&#xD;&#xA;  The Project&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-project&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;J&amp;rsquo;ai conçu et développé un système de Gestion des Temps et des Présences utilisé par plus de 500 employés.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;&#xD;&#xA;  Key Features:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-features&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pointage Automatisé:&lt;/strong&gt; Les employés enregistrent leurs heures via une interface web ou une application mobile.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend Complexe:&lt;/strong&gt; Un moteur sous Node.js qui calcule les heures supplémentaires en fonction des législations du travail régionales.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intégration DevOps:&lt;/strong&gt; Déploiement via des conteneurs Docker avec un suivi Sonar garantissant une couverture de code de 90 %.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material on Stev de DEV</title>
+    <link>http://localhost:1313/TheApp/categories/material/</link>
+    <description>Recent content in Material on Stev de DEV</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/TheApp/categories/material/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Borrow Things</title>
+      <link>http://localhost:1313/TheApp/posts/emprunt-matos/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/posts/emprunt-matos/</guid>
+      <description>&lt;h3 id=&#34;the-project&#34;&gt;&#xD;&#xA;  The Project&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-project&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&amp;ldquo;A specialized CRM for managing borrowing things&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;&#xD;&#xA;  Key Features:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-features&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ergonomic UI:&lt;/strong&gt; It uses a &amp;ldquo;Social Feed&amp;rdquo; style UI that users are already familiar with..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mutual Connections:&lt;/strong&gt; Showing if you share friends or social circles to lower the &amp;ldquo;stranger danger&amp;rdquo; barrier.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Live Scheduling:&lt;/strong&gt; A visual calendar where lenders can mark items as &amp;ldquo;busy&amp;rdquo; or &amp;ldquo;available.&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stev de DEV</title>
-    <link>https://le-esp.ovh/TheApp/fr/tags/</link>
+    <link>http://localhost:1313/TheApp/fr/tags/</link>
     <description>Recent content in Tags on Stev de DEV</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://le-esp.ovh/TheApp/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/TheApp/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flutter</title>
-      <link>https://le-esp.ovh/TheApp/fr/tags/flutter/</link>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/fr/tags/flutter/</guid>
+      <link>http://localhost:1313/TheApp/fr/tags/flutter/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/fr/tags/flutter/</guid>
       <description></description>
     </item>
     <item>
       <title>Mongo Db</title>
-      <link>https://le-esp.ovh/TheApp/fr/tags/mongo-db/</link>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/fr/tags/mongo-db/</guid>
+      <link>http://localhost:1313/TheApp/fr/tags/mongo-db/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/fr/tags/mongo-db/</guid>
       <description></description>
     </item>
     <item>
       <title>Node JS</title>
-      <link>https://le-esp.ovh/TheApp/fr/tags/node-js/</link>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/fr/tags/node-js/</guid>
+      <link>http://localhost:1313/TheApp/fr/tags/node-js/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/fr/tags/node-js/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>https://le-esp.ovh/TheApp/fr/tags/react/</link>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://le-esp.ovh/TheApp/fr/tags/react/</guid>
+      <link>http://localhost:1313/TheApp/fr/tags/react/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheApp/fr/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>https://le-esp.ovh/TheApp/fr/tags/shortcodes/</link>
+      <link>http://localhost:1313/TheApp/fr/tags/shortcodes/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://le-esp.ovh/TheApp/fr/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/TheApp/fr/tags/shortcodes/</guid>
       <description></description>
     </item>
   </channel>
